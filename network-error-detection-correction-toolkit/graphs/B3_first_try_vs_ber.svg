@@ -1,0 +1,115 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='980' height='440' viewBox='0 0 980 440' font-family='Segoe UI, Arial, Helvetica, sans-serif'>
+<rect width='100%' height='100%' fill='white'/>
+<text x='490' y='28' text-anchor='middle' font-size='17' font-weight='600' fill='#1f2933'>Frames accepted without retransmission vs bit error rate</text>
+<line x1='78' x2='714' y1='378' y2='378' stroke='#e4e7eb' stroke-width='1'/>
+<text x='70' y='382' text-anchor='end' font-size='12' fill='#52606d'>0</text>
+<line x1='78' x2='714' y1='315.143' y2='315.143' stroke='#e4e7eb' stroke-width='1'/>
+<text x='70' y='319.143' text-anchor='end' font-size='12' fill='#52606d'>20</text>
+<line x1='78' x2='714' y1='252.286' y2='252.286' stroke='#e4e7eb' stroke-width='1'/>
+<text x='70' y='256.286' text-anchor='end' font-size='12' fill='#52606d'>40</text>
+<line x1='78' x2='714' y1='189.429' y2='189.429' stroke='#e4e7eb' stroke-width='1'/>
+<text x='70' y='193.429' text-anchor='end' font-size='12' fill='#52606d'>60</text>
+<line x1='78' x2='714' y1='126.571' y2='126.571' stroke='#e4e7eb' stroke-width='1'/>
+<text x='70' y='130.571' text-anchor='end' font-size='12' fill='#52606d'>80</text>
+<line x1='78' x2='714' y1='63.7143' y2='63.7143' stroke='#e4e7eb' stroke-width='1'/>
+<text x='70' y='67.7143' text-anchor='end' font-size='12' fill='#52606d'>100</text>
+<line x1='78' x2='78' y1='48' y2='378' stroke='#f0f2f4'/>
+<text x='78' y='396' text-anchor='middle' font-size='12' fill='#52606d'>1e-4</text>
+<line x1='200.501' x2='200.501' y1='48' y2='378' stroke='#f0f2f4'/>
+<text x='200.501' y='396' text-anchor='middle' font-size='12' fill='#52606d'>3e-4</text>
+<line x1='334.75' x2='334.75' y1='48' y2='378' stroke='#f0f2f4'/>
+<text x='334.75' y='396' text-anchor='middle' font-size='12' fill='#52606d'>1e-3</text>
+<line x1='457.25' x2='457.25' y1='48' y2='378' stroke='#f0f2f4'/>
+<text x='457.25' y='396' text-anchor='middle' font-size='12' fill='#52606d'>3e-3</text>
+<line x1='591.499' x2='591.499' y1='48' y2='378' stroke='#f0f2f4'/>
+<text x='591.499' y='396' text-anchor='middle' font-size='12' fill='#52606d'>0.01</text>
+<line x1='714' x2='714' y1='48' y2='378' stroke='#f0f2f4'/>
+<text x='714' y='396' text-anchor='middle' font-size='12' fill='#52606d'>0.03</text>
+<rect x='78' y='48' width='636' height='330' fill='none' stroke='#9aa5b1'/>
+<text x='396' y='424' text-anchor='middle' font-size='13' fill='#323f4b'>bit error rate (log scale)</text>
+<text transform='translate(20,213) rotate(-90)' text-anchor='middle' font-size='13' fill='#323f4b'>correct on first try (%)</text>
+<svg x='78' y='48' width='636' height='330' overflow='hidden'>
+<polyline fill='none' stroke='#7b8794' stroke-width='2.2' points='0,31.5229 122.501,60.3429 256.75,141.476 379.25,263.717 513.499,328.303 636,330 '/>
+<circle cx='0' cy='31.5229' r='3.6' fill='#7b8794'/>
+<circle cx='122.501' cy='60.3429' r='3.6' fill='#7b8794'/>
+<circle cx='256.75' cy='141.476' r='3.6' fill='#7b8794'/>
+<circle cx='379.25' cy='263.717' r='3.6' fill='#7b8794'/>
+<circle cx='513.499' cy='328.303' r='3.6' fill='#7b8794'/>
+<circle cx='636' cy='330' r='3.6' fill='#7b8794'/>
+<polyline fill='none' stroke='#f4a261' stroke-width='2.2' points='0,16.2643 122.501,20.6171 256.75,52.5171 379.25,181.17 513.499,323.95 636,330 '/>
+<circle cx='0' cy='16.2643' r='3.6' fill='#f4a261'/>
+<circle cx='122.501' cy='20.6171' r='3.6' fill='#f4a261'/>
+<circle cx='256.75' cy='52.5171' r='3.6' fill='#f4a261'/>
+<circle cx='379.25' cy='181.17' r='3.6' fill='#f4a261'/>
+<circle cx='513.499' cy='323.95' r='3.6' fill='#f4a261'/>
+<circle cx='636' cy='330' r='3.6' fill='#f4a261'/>
+<polyline fill='none' stroke='#2a9d8f' stroke-width='2.2' points='0,32.1514 122.501,61.7414 256.75,143.471 379.25,266.499 513.499,328.523 636,330 '/>
+<circle cx='0' cy='32.1514' r='3.6' fill='#2a9d8f'/>
+<circle cx='122.501' cy='61.7414' r='3.6' fill='#2a9d8f'/>
+<circle cx='256.75' cy='143.471' r='3.6' fill='#2a9d8f'/>
+<circle cx='379.25' cy='266.499' r='3.6' fill='#2a9d8f'/>
+<circle cx='513.499' cy='328.523' r='3.6' fill='#2a9d8f'/>
+<circle cx='636' cy='330' r='3.6' fill='#2a9d8f'/>
+<polyline fill='none' stroke='#9b5de5' stroke-width='2.2' points='0,31.1143 122.501,60.4686 256.75,142.246 379.25,264.031 513.499,328.821 636,330 '/>
+<circle cx='0' cy='31.1143' r='3.6' fill='#9b5de5'/>
+<circle cx='122.501' cy='60.4686' r='3.6' fill='#9b5de5'/>
+<circle cx='256.75' cy='142.246' r='3.6' fill='#9b5de5'/>
+<circle cx='379.25' cy='264.031' r='3.6' fill='#9b5de5'/>
+<circle cx='513.499' cy='328.821' r='3.6' fill='#9b5de5'/>
+<circle cx='636' cy='330' r='3.6' fill='#9b5de5'/>
+<polyline fill='none' stroke='#1f6feb' stroke-width='2.2' points='0,31.8686 122.501,62.1814 256.75,143.299 379.25,266.781 513.499,328.397 636,330 '/>
+<circle cx='0' cy='31.8686' r='3.6' fill='#1f6feb'/>
+<circle cx='122.501' cy='62.1814' r='3.6' fill='#1f6feb'/>
+<circle cx='256.75' cy='143.299' r='3.6' fill='#1f6feb'/>
+<circle cx='379.25' cy='266.781' r='3.6' fill='#1f6feb'/>
+<circle cx='513.499' cy='328.397' r='3.6' fill='#1f6feb'/>
+<circle cx='636' cy='330' r='3.6' fill='#1f6feb'/>
+<polyline fill='none' stroke='#d1495b' stroke-width='2.2' points='0,31.57 122.501,63.2186 256.75,147.809 379.25,267.96 513.499,328.664 636,330 '/>
+<circle cx='0' cy='31.57' r='3.6' fill='#d1495b'/>
+<circle cx='122.501' cy='63.2186' r='3.6' fill='#d1495b'/>
+<circle cx='256.75' cy='147.809' r='3.6' fill='#d1495b'/>
+<circle cx='379.25' cy='267.96' r='3.6' fill='#d1495b'/>
+<circle cx='513.499' cy='328.664' r='3.6' fill='#d1495b'/>
+<circle cx='636' cy='330' r='3.6' fill='#d1495b'/>
+<polyline fill='none' stroke='#e9c46a' stroke-width='2.2' points='0,15.7457 122.501,15.7929 256.75,16.3586 379.25,22.2671 513.499,86.68 636,296.811 '/>
+<circle cx='0' cy='15.7457' r='3.6' fill='#e9c46a'/>
+<circle cx='122.501' cy='15.7929' r='3.6' fill='#e9c46a'/>
+<circle cx='256.75' cy='16.3586' r='3.6' fill='#e9c46a'/>
+<circle cx='379.25' cy='22.2671' r='3.6' fill='#e9c46a'/>
+<circle cx='513.499' cy='86.68' r='3.6' fill='#e9c46a'/>
+<circle cx='636' cy='296.811' r='3.6' fill='#e9c46a'/>
+<polyline fill='none' stroke='#264653' stroke-width='2.2' points='0,15.7143 122.501,15.8086 256.75,17.1757 379.25,25.1586 513.499,108.837 636,312.604 '/>
+<circle cx='0' cy='15.7143' r='3.6' fill='#264653'/>
+<circle cx='122.501' cy='15.8086' r='3.6' fill='#264653'/>
+<circle cx='256.75' cy='17.1757' r='3.6' fill='#264653'/>
+<circle cx='379.25' cy='25.1586' r='3.6' fill='#264653'/>
+<circle cx='513.499' cy='108.837' r='3.6' fill='#264653'/>
+<circle cx='636' cy='312.604' r='3.6' fill='#264653'/>
+<polyline fill='none' stroke='#06d6a0' stroke-width='2.2' points='0,15.73 122.501,15.8557 256.75,16.61 379.25,23.5557 513.499,88.5657 636,296.34 '/>
+<circle cx='0' cy='15.73' r='3.6' fill='#06d6a0'/>
+<circle cx='122.501' cy='15.8557' r='3.6' fill='#06d6a0'/>
+<circle cx='256.75' cy='16.61' r='3.6' fill='#06d6a0'/>
+<circle cx='379.25' cy='23.5557' r='3.6' fill='#06d6a0'/>
+<circle cx='513.499' cy='88.5657' r='3.6' fill='#06d6a0'/>
+<circle cx='636' cy='296.34' r='3.6' fill='#06d6a0'/>
+</svg>
+<rect x='726' y='48' width='232' height='188' fill='white' fill-opacity='0.92' stroke='#cbd2d9' rx='4'/>
+<line x1='734' x2='752' y1='62' y2='62' stroke='#7b8794' stroke-width='3'/>
+<text x='757' y='66' font-size='12' fill='#323f4b'>Single parity (even)</text>
+<line x1='734' x2='752' y1='82' y2='82' stroke='#f4a261' stroke-width='3'/>
+<text x='757' y='86' font-size='12' fill='#323f4b'>Two-dimensional parity</text>
+<line x1='734' x2='752' y1='102' y2='102' stroke='#2a9d8f' stroke-width='3'/>
+<text x='757' y='106' font-size='12' fill='#323f4b'>Internet checksum (16-bit)</text>
+<line x1='734' x2='752' y1='122' y2='122' stroke='#9b5de5' stroke-width='3'/>
+<text x='757' y='126' font-size='12' fill='#323f4b'>CRC-8 (x^8+x^2+x+1)</text>
+<line x1='734' x2='752' y1='142' y2='142' stroke='#1f6feb' stroke-width='3'/>
+<text x='757' y='146' font-size='12' fill='#323f4b'>CRC-16-CCITT</text>
+<line x1='734' x2='752' y1='162' y2='162' stroke='#d1495b' stroke-width='3'/>
+<text x='757' y='166' font-size='12' fill='#323f4b'>CRC-32 (IEEE 802.3)</text>
+<line x1='734' x2='752' y1='182' y2='182' stroke='#e9c46a' stroke-width='3'/>
+<text x='757' y='186' font-size='12' fill='#323f4b'>Hamming (7,4)</text>
+<line x1='734' x2='752' y1='202' y2='202' stroke='#264653' stroke-width='3'/>
+<text x='757' y='206' font-size='12' fill='#323f4b'>Hamming SEC-DED (8,4)</text>
+<line x1='734' x2='752' y1='222' y2='222' stroke='#06d6a0' stroke-width='3'/>
+<text x='757' y='226' font-size='12' fill='#323f4b'>Hamming (7,4) + interleaving</text>
+</svg>

@@ -1,0 +1,10 @@
+code,codeword_bits_64B,overhead_pct,encode_MBps,decode_MBps,detects,corrects
+parity,513,0.195312,47.4203,91.6648,yes,no
+parity2d,585,14.2578,39.0542,35.241,yes,yes
+checksum,528,3.125,50.8013,101.446,yes,no
+crc8,520,1.5625,45.8841,84.1267,yes,no
+crc16,528,3.125,43.3275,82.7889,yes,no
+crc32,544,6.25,44.584,85.7774,yes,no
+hamming,896,75,54.9819,102.019,yes,yes
+secded,1024,100,45.7931,62.7918,yes,yes
+hamming-il,896,75,36.3266,68.6202,yes,yes
